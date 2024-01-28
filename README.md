@@ -31,6 +31,12 @@ Convex Hull Sample on Random Generated 2D Points :
   <img width="500" height="500" src="Assets/convexhull-on-points.png" alt="by Ramtin Kosari" align="10%">
 </p>
 
+Sample of Segmented Images :
+<p align="center">
+  <img width="500" height="500" src="Assets/filerJZEkB.png" alt="by Ramtin Kosari" align="left">
+  <img width="500" height="500" src="Assets/filerJZEkB_labeld.png" alt="by Ramtin Kosari" align="right">
+</p>
+
 ### Image Processing
 Implement Image Processing Filters on [This](Assets/juniors.png) Image
 Sample Filtered Image :
