@@ -33,8 +33,8 @@ Convex Hull Sample on Random Generated 2D Points :
 
 Sample of Segmented Images :
 <p align="center">
-  <img width="80%" height="80%" src="Assets/filerJZEkB.png" alt="by Ramtin Kosari" align="left">
-  <img width="80%" height="80%" src="Assets/filerJZEkB_labeld.png" alt="by Ramtin Kosari" align="right">
+  <img width="30%" height="30%" src="Assets/filerJZEkB.png" alt="by Ramtin Kosari" align="left">
+  <img width="30%" height="30%" src="Assets/filerJZEkB_labeld.png" alt="by Ramtin Kosari" align="right">
 </p>
 
 ### Image Processing
