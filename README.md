@@ -54,3 +54,20 @@ Sample Filtered Image :
     <img src="Assets/edge.png" alt="Canny Edge Detection" width="200" style="margin: 10px;">
   </div>
 </div>
+
+## Build and Execute
+```bash
+# - Clone the Repository
+git clone https://github.com/MRL-HSL-Software/Vision-Modules.git
+cd Vision-Modules/
+
+# - Also Clone MRL HSL CMake Project
+git clone https://github.com/MRL-HSL-Software/MRL-HSL-CMake.git
+cd MRL-HSL-CMake/
+
+# - Build Project Project Using This Command :
+./setup.sh
+
+# - To Run Output Go to build Directory and Then Enter This Command :
+./run
+```
