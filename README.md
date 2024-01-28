@@ -28,7 +28,7 @@ You May Need Fast Sort Algorithm for Image Size of 320 x 240, So Test These Sort
 
 Convex Hull Sample on Random Generated 2D Points :
 <p align="center">
-  <img width="500" height="500" src="Assets/convexhull-on-points.png" alt="by Ramtin Kosari" align="10%">
+  <img src="Assets/convexhull-on-points.png" alt="by Ramtin Kosari" align="10%">
 </p>
 
 Sample of Segmented Images :
