@@ -7,7 +7,7 @@ Collection of Vision Tools and Related Stuff to Handle Vision Part of the Robot
 * Image Processing
   * [ ] Gaussian Blur and Kernels
   * [ ] Bit Plane and Binary Image
-  * [ ] Edge Thining
+  * [ ] Canny Edge Detection
   * [ ] Grayscale
   * [ ] Treshold
   * [ ] Sobel
@@ -27,7 +27,13 @@ You May Need Fast Sort Algorithm for Image Size of 320 x 240, So Test These Sort
 * Quick Sort
 
 Convex Hull Sample on Random Generated 2D Points :
-<p>
-  <img width="351" height="255" src="Assets/convexhull-on-points.png" alt="by Ramtin Kosari" align="10%">
+<p align="center">
+  <img width="400" height="500" src="Assets/convexhull-on-points.png" alt="by Ramtin Kosari" align="10%">
 </p>
+
 ### Image Processing
+Implement Image Processing Filters on [This](Assets/juniors.png) Image
+Sample Filtered Image :
+<p align="center">
+  <img width="400" height="500" src="Assets/picture.png" alt="by Ramtin Kosari" align="10%">
+</p>
