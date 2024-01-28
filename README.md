@@ -16,7 +16,6 @@ Collection of Vision Tools and Related Stuff to Handle Vision Part of the Robot
   * [ ] Logger
   * [ ] Tools
 ## Overview
-### Convex Hull
 Implement Convex Hull Graham's Scan and Gift Wrapping Algorithms on 2D Points and Images, 2D Point has only X-Axis, Y-Axis and Theta (Between 2 Points) Values, on Image You Must Implement Convex Hull Algorithms on Segmented Images that are Stored in [Assets Directory](Assets)
 
 You May Need Fast Sort Algorithm for Image Size of 320 x 240, So Test These Sort Methods for Your Convex Hull Implementation :
@@ -26,19 +25,32 @@ You May Need Fast Sort Algorithm for Image Size of 320 x 240, So Test These Sort
 * Merge Sort
 * Quick Sort
 
+## Convex Hull
 Convex Hull Sample on Random Generated 2D Points :
 <p align="center">
   <img width="500px" height="500px" src="Assets/convexhull-on-points.png" alt="by Ramtin Kosari" align="10%">
 </p>
 
-Sample of Segmented Images :
-<p align="center">
-  <img width="30%" height="30%" src="Assets/filerJZEkB_labeld.png" alt="by Ramtin Kosari" align="right">
-</p>
+Example of Segmented Images in [Assets](Assets) Directory :
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="Assets/filerJZEkB.png" alt="Gaussian Blur" width="200" style="margin: 10px;">
+    <img src="Assets/filerJZEkB_labeld.png" alt="Normal Image" width="200" style="margin: 10px;">
+    <img src="Assets/fileT3hExk.png" alt="Grayscale" width="200" style="margin: 10px;">
+    <img src="Assets/fileT3hExk_labeld.png" alt="Canny Edge Detection" width="200" style="margin: 10px;">
+  </div>
+</div>
 
-### Image Processing
+## Image Processing
 Implement Image Processing Filters on [This](Assets/juniors.png) Image
 Sample Filtered Image :
-<p align="center">
-  <img width="400" height="500" src="Assets/picture.png" alt="by Ramtin Kosari" align="10%">
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="Assets/picture.png" alt="Normal Image" width="200" style="margin: 10px;">
+    <img src="Assets/gaussian.png" alt="Gaussian Blur" width="200" style="margin: 10px;">
+    <img src="Assets/sobel.png" alt="Sobel" width="200" style="margin: 10px;">
+    <img src="Assets/treshold.png" alt="Threshold" width="200" style="margin: 10px;">
+    <img src="Assets/grayscale.png" alt="Grayscale" width="200" style="margin: 10px;">
+    <img src="Assets/edge.png" alt="Canny Edge Detection" width="200" style="margin: 10px;">
+  </div>
+</div>
